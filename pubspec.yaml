@@ -29,7 +29,6 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   json_annotation: ^4.8.1
-  http:
   dio: ^5.2.0+1
   equatable: ^2.0.5
   retrofit:

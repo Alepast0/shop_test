@@ -87,6 +87,7 @@ class BasketItem extends StatelessWidget {
               children: [
                 GestureDetector(
                   child: const SizedBox(
+                    height: 32,
                     width: 33,
                     child: Center(
                       child: Text(
@@ -103,6 +104,7 @@ class BasketItem extends StatelessWidget {
                   },
                 ),
                 SizedBox(
+                  height: 32,
                   width: 33,
                   child: Center(
                     child: Text(
@@ -113,6 +115,7 @@ class BasketItem extends StatelessWidget {
                 ),
                 GestureDetector(
                   child: const SizedBox(
+                    height: 32,
                     width: 33,
                     child: Center(
                       child: Text(
